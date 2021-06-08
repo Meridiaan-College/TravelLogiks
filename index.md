@@ -16,7 +16,7 @@ In de app zit ook een digitale planning die met een slim AI systeem een persoonl
 
 ## Hoe werken de persoonlijke filters?
 Bij de registratie voor de app moet je een kleine vragenlijst invullen waaruit de app jou persoonlijke voorkeuren trekt. Hierop wordt beoordeeld hoe alle andere functies persoonlijk op je doorwerken. Een voorbeeld hiervan is dat als je in die vragenlijst hebt aangegeven dat je wat spanning of actie aankan, dat dan bij de locatiefunctie achtbaanen sneller voorgesteld zullen worden. Ook kan de AI inschatten hoeveel pauze of hoeveel activiteiten in een dag goed zouden zijn. 
-Ook leert de app je persoonlijke voorkeuren steeds beter kennen. Alle functies hebben invloed op elkaar en zo worden voor jouw uiteindelijk de PERFECTE vakanties gemaakt.
+Ook leert de app je persoonlijke voorkeuren steeds beter kennen. Alle functies hebben invloed op elkaar en zo worden voor jouw uiteindelijk de *PERFECTE* vakanties maakt.
 
 
 
