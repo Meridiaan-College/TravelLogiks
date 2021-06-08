@@ -21,14 +21,5 @@ Ook leert de app je persoonlijke voorkeuren steeds beter kennen. Alle functies h
 
 
 
-## Bedrijfsaanmelding en Privacy
-
-
-
-
-
-
-
-
-
-
+### Bedrijfsaanmelding en Privacy
+TravelLogiks gebruikt Google Maps om alle toeristenattracties maar ook de winkels te bepalen. Omdat deze berdijven zich ook al bij Maps hebben aangegeven zullen deze hoogstwaarschijnlijk geen probleem hebben met hun toevoeging op TravelLogiks. Om rekening te houden met iedereen hebben we voor de zekerheid zelfs nog een automatische mail gestuurd naar alle bedrijven. Deze mail bevat een link om toegang te krijgen tot het TravelLogiks account waar je dit account kan aanpassen (de afbeeldingen en omschrijving) of te verwijderen als je het niet eens bent met ons privacybeleid. Dit wordt totaal niet verwacht maar we doen dit om de bedrijven een keuze te geven.
